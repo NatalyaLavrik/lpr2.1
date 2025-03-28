@@ -1,0 +1,29 @@
+h1 {
+    color: #0000ff;
+    text-align: center;
+    font-weight: 400;
+  }
+  h2 {
+    font-size: 15px;
+  }
+p{
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 10px;
+    background-color: #f7efef;
+
+}  
+span{
+    color: red;
+    font-weight: 700;
+}
+.text__first {
+    font-style: italic;
+}
+.text__second{
+    font-style: italic;
+    background-color: chartreuse;
+    border: solid 10px #791552;
+}
